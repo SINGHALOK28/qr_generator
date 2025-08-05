@@ -2,4 +2,4 @@
 
 It generates the QR images of the given URL
 <br>
-Author: Me
+Author:Alok Singh
